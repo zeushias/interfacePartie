@@ -7,11 +7,11 @@ public class Lanceur {
 
 	public static void main(String[] args) {
 		Fatimata fatimata = new Fatimata();
-		fatimata.courir();
+		//fatimata.courir();
 		fatimata.lireManga();
 		
 		Benjamin benjamin = new Benjamin();
-		benjamin.courir();
+		//benjamin.courir();
 		benjamin.jouer();
 	}
 
